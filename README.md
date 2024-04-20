@@ -77,10 +77,11 @@
 
 ## Programming
 - 🕸 [Get **really** good at programming](https://exercism.org/) (exercism)
-- 📺 From Nand to Tetris [part1](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) [part2](https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
+- 📺 From Nand to Tetris [part1](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) [part2](https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh) (see also Hardware)
+- (see also Languages and App Development)
 
 ## Game Developer
-
+- (see also [[README#App Development|App Development]])
 ## Author/Journalist
 
 ## Animator
