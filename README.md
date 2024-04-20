@@ -71,3 +71,19 @@
     * 📕 [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (mainly the 2nd half)
     * 📕 [Domain Driven Design Distilled - Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
     * 📕 [Domain Modeling Made Functional - Scott Wlaschin](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
+
+## App Development
+- 🕸 [Design and code beautiful products. Together](https://penpot.app/) (penpot)
+
+## Programming
+- 🕸 [Get **really** good at programming](https://exercism.org/) (exercism)
+- 📺 From Nand to Tetris [part1](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) [part2](https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
+
+## Game Developer
+
+## Author/Journalist
+
+## Animator
+
+## Artist
+- 🕸 [a global community for learning visual arts](https://artprof.org/) (ArtProf)
